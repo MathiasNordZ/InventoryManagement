@@ -1,4 +1,4 @@
-package org.mnord.inventorymanagement;
+package org.mnord.inventorymanagement.application;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

@@ -1,4 +1,4 @@
-package org.mnord.inventorymanagement;
+package org.mnord.inventorymanagement.application;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
